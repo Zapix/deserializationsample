@@ -1,3 +1,4 @@
 argparse==1.2.1
+simplejson==3.3.0
 wsgiref==0.1.2
 xmltodict==0.5.0
